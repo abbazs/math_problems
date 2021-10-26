@@ -1,0 +1,9 @@
+# office files
+*.xls[x]
+*.doc[x]
+*.ppt[x]
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
